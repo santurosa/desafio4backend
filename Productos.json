@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "Leche",
+        "description": "Leche de 500 ml deslactosada",
+        "price": 600,
+        "thumbnail": "./img/leche.jpg",
+        "stock": 543,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "2",
+        "title": "Yogur Natural",
+        "description": "Yogur natural sin azúcar añadido",
+        "price": 250,
+        "thumbnail": "./img/yogur.jpg",
+        "stock": 387,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "3",
+        "title": "Leche",
+        "description": "Leche de 500 ml deslactosada",
+        "price": 600,
+        "thumbnail": "./img/leche.jpg",
+        "stock": 543,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "4",
+        "title": "Manzanas",
+        "description": "Manzanas frescas y jugosas",
+        "price": 1.5,
+        "thumbnail": "./img/manzanas.jpg",
+        "stock": 801,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "5",
+        "title": "Pan Integral",
+        "description": "Pan integral recién horneado",
+        "price": 2,
+        "thumbnail": "./img/pan_integral.jpg",
+        "stock": 802,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "6",
+        "title": "Queso Parmesano",
+        "description": "Queso parmesano envejecido de alta calidad",
+        "price": 8,
+        "thumbnail": "./img/queso_parmesano.jpg",
+        "stock": 803,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "7",
+        "title": "Salmón",
+        "description": "Filete de salmón fresco de la costa atlántica",
+        "price": 12,
+        "thumbnail": "./img/salmon.jpg",
+        "stock": 804,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "8",
+        "title": "Aguacates",
+        "description": "Aguacates maduros listos para disfrutar",
+        "price": 2.5,
+        "thumbnail": "./img/aguacates.jpg",
+        "stock": 805,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "9",
+        "title": "Chocolate Amargo",
+        "description": "Tableta de chocolate amargo 70% cacao",
+        "price": 3.5,
+        "thumbnail": "./img/chocolate.jpg",
+        "stock": 806,
+        "path": "./Productos.json"
+    },
+    {
+        "id": "10",
+        "title": "Especias Variadas",
+        "description": "Set de especias gourmet para sazonar tus platos",
+        "price": 15,
+        "thumbnail": "./img/especias.jpg",
+        "stock": 807,
+        "path": "./Productos.json"
+    }
+]
